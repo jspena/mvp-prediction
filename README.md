@@ -5,4 +5,4 @@ With this wave of data available, we asked ourselves: can we use data science to
 
 Data files can be found in repository files.
 
-Data exploration was performed using R Studio. Model building and evaluation was conducted in Python through Jupyter Notebook. Additional visualizations on Tableau.
+Data exploration was performed using R Studio. Model building and evaluation was conducted in Python through Jupyter Notebook. Additional visualizations on Tableau (using mvp_votes2.csv file).
